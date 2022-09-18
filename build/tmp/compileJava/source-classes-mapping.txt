@@ -1,4 +1,8 @@
-algos/Test.java
- algos.Test
 algos/LinearSearch.java
  algos.LinearSearch
+algos/BinarySearch.java
+ algos.BinarySearch
+algos/RecursiveLinearSearch.java
+ algos.RecursiveLinearSearch
+algos/RecursiveBinarySearch.java
+ algos.RecursiveBinarySearch

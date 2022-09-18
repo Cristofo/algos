@@ -9,11 +9,11 @@ public class LinearSearch {
     public static void main(String[] args) {
         List<Integer> list = IntStream.rangeClosed(0, 100).boxed().collect(Collectors.toList());
         int target = 100;
-        linear_search(list, target);
+        linearSearch(list, target);
 
     }
 
-    static void linear_search(List<Integer> list, int target){
+    static void linearSearch(List<Integer> list, int target){
 
        try{
         list.stream().forEach(value -> {
