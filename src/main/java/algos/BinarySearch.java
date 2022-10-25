@@ -18,8 +18,8 @@ public class BinarySearch {
         int low = 0;
         int guess = 0;
         while(low <= high){
-            System.out.println("guess number"+guess);
             guess = (high+low)/2;
+            System.out.println("guess number"+guess);
 
             if(guess == target){
                 return guess;
