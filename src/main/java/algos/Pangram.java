@@ -1,9 +1,5 @@
 package algos;
 
-import java.nio.charset.Charset;
-import java.util.stream.Collectors;
-import java.util.stream.Stream;
-
 public class Pangram {
 
     public static void main(String[] args) {

@@ -3,26 +3,43 @@ algos/Test.java
  algos.Test$ListNode
 algos/ValidParenthesis.java
  algos.ValidParenthesis
-algos/Pangram.java
- algos.Pangram
+algos/RemoveDuplicates.java
+ algos.RemoveDuplicates
 algos/LongestCommonPrefix.java
  algos.LongestCommonPrefix
 algos/RecursiveLinearSearch.java
  algos.RecursiveLinearSearch
 algos/LinearSearch.java
  algos.LinearSearch
+algos/PlusOne.java
+ algos.PlusOne
 algos/RomanNumbers.java
  algos.RomanNumbers
+algos/SearchInsertPostion.java
+ algos.SearchInsertPostion
 algos/Merge2SortedLists.java
  algos.Merge2SortedLists
  algos.Merge2SortedLists$ListNode
 algos/CountAndSay.java
  algos.CountAndSay
+algos/RemoveElement.java
+ algos.RemoveElement
+algos/AddBinary.java
+ algos.AddBinary
 algos/BinarySearch.java
  algos.BinarySearch
+algos/LengthOfLastWord.java
+ algos.LengthOfLastWord
 algos/FindPeakElement.java
  algos.FindPeakElement
 algos/RecursiveBinarySearch.java
  algos.RecursiveBinarySearch
-algos/RemoveDuplicates.java
- algos.RemoveDuplicates
+algos/Sqrt.java
+ algos.Sqrt
+algos/ClimbingStairs.java
+ algos.ClimbingStairs
+algos/Pangram.java
+ algos.Pangram
+algos/RemoveDuplicatesFromSortedList.java
+ algos.RemoveDuplicatesFromSortedList
+ algos.RemoveDuplicatesFromSortedList$ListNode
