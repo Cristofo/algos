@@ -3,10 +3,17 @@ algos/Test.java
  algos.Test$ListNode
 algos/ValidParenthesis.java
  algos.ValidParenthesis
+algos/SearchInsertPostion.java
+ algos.SearchInsertPostion
 algos/RemoveDuplicates.java
  algos.RemoveDuplicates
+algos/ClimbingStairs.java
+ algos.ClimbingStairs
 algos/LongestCommonPrefix.java
  algos.LongestCommonPrefix
+algos/RemoveDuplicatesFromSortedList.java
+ algos.RemoveDuplicatesFromSortedList
+ algos.RemoveDuplicatesFromSortedList$ListNode
 algos/RecursiveLinearSearch.java
  algos.RecursiveLinearSearch
 algos/LinearSearch.java
@@ -15,8 +22,8 @@ algos/PlusOne.java
  algos.PlusOne
 algos/RomanNumbers.java
  algos.RomanNumbers
-algos/SearchInsertPostion.java
- algos.SearchInsertPostion
+algos/Sqrt.java
+ algos.Sqrt
 algos/Merge2SortedLists.java
  algos.Merge2SortedLists
  algos.Merge2SortedLists$ListNode
@@ -34,12 +41,12 @@ algos/FindPeakElement.java
  algos.FindPeakElement
 algos/RecursiveBinarySearch.java
  algos.RecursiveBinarySearch
-algos/Sqrt.java
- algos.Sqrt
-algos/ClimbingStairs.java
- algos.ClimbingStairs
 algos/Pangram.java
  algos.Pangram
-algos/RemoveDuplicatesFromSortedList.java
- algos.RemoveDuplicatesFromSortedList
- algos.RemoveDuplicatesFromSortedList$ListNode
+algos/MergeSortedArrays.java
+ algos.MergeSortedArrays
+algos/ReverseVowels.java
+ algos.ReverseVowels
+algos/BinaryTreeInorderTra.java
+ algos.BinaryTreeInorderTra
+ algos.BinaryTreeInorderTra$TreeNode
