@@ -3,10 +3,32 @@ algos/Test.java
  algos.Test$ListNode
 algos/ValidParenthesis.java
  algos.ValidParenthesis
-algos/SearchInsertPostion.java
- algos.SearchInsertPostion
+algos/ReverseVowels.java
+ algos.ReverseVowels
 algos/RemoveDuplicates.java
  algos.RemoveDuplicates
+algos/IsSimetricTree.java
+ algos.IsSimetricTree
+ algos.IsSimetricTree$TreeNode
+algos/LinearSearch.java
+ algos.LinearSearch
+algos/PlusOne.java
+ algos.PlusOne
+algos/CountAndSay.java
+ algos.CountAndSay
+algos/AddBinary.java
+ algos.AddBinary
+algos/SameTree.java
+ algos.SameTree
+ algos.SameTree$TreeNode
+algos/LengthOfLastWord.java
+ algos.LengthOfLastWord
+algos/Pangram.java
+ algos.Pangram
+algos/Picks.java
+ algos.Picks
+algos/MergeSortedArrays.java
+ algos.MergeSortedArrays
 algos/ClimbingStairs.java
  algos.ClimbingStairs
 algos/LongestCommonPrefix.java
@@ -16,10 +38,6 @@ algos/RemoveDuplicatesFromSortedList.java
  algos.RemoveDuplicatesFromSortedList$ListNode
 algos/RecursiveLinearSearch.java
  algos.RecursiveLinearSearch
-algos/LinearSearch.java
- algos.LinearSearch
-algos/PlusOne.java
- algos.PlusOne
 algos/RomanNumbers.java
  algos.RomanNumbers
 algos/Sqrt.java
@@ -27,26 +45,22 @@ algos/Sqrt.java
 algos/Merge2SortedLists.java
  algos.Merge2SortedLists
  algos.Merge2SortedLists$ListNode
-algos/CountAndSay.java
- algos.CountAndSay
+algos/MaxDepth.java
+ algos.MaxDepth
+ algos.MaxDepth$TreeNode
 algos/RemoveElement.java
  algos.RemoveElement
-algos/AddBinary.java
- algos.AddBinary
 algos/BinarySearch.java
  algos.BinarySearch
-algos/LengthOfLastWord.java
- algos.LengthOfLastWord
+algos/BinaryTreeInorderTra.java
+ algos.BinaryTreeInorderTra
+ algos.BinaryTreeInorderTra$TreeNode
 algos/FindPeakElement.java
  algos.FindPeakElement
 algos/RecursiveBinarySearch.java
  algos.RecursiveBinarySearch
-algos/Pangram.java
- algos.Pangram
-algos/MergeSortedArrays.java
- algos.MergeSortedArrays
-algos/ReverseVowels.java
- algos.ReverseVowels
-algos/BinaryTreeInorderTra.java
- algos.BinaryTreeInorderTra
- algos.BinaryTreeInorderTra$TreeNode
+algos/SearchInsertPostion.java
+ algos.SearchInsertPostion
+algos/HeightBalanceBST.java
+ algos.HeightBalanceBST
+ algos.HeightBalanceBST$TreeNode
